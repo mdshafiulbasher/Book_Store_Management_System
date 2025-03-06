@@ -7,11 +7,11 @@ def add_book():
     isbn = input("Enter book ISBN: ")
     genre = input("Enter book genre: ")
     price = float(input("Enter book price: "))
-    if price<=0:
+    if price<0:
         print("The price must be a positive number.")
         return
     quantity = int(input("Enter quantity in stock: "))
-    if quantity <= 0:
+    if quantity < 0:
         print("The quantity must be a non-negative integer.")
         return
 

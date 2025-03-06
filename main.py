@@ -24,7 +24,7 @@ def main():
         elif choice == "4":
             delete_book()
         elif choice == "5":
-            print("Thank you for using the Book Store Management System. Goodbye!")
+            print("Thank you for using the Book Store Management System!")
             break
         else:
             print("Invalid choice. Please try again.")
