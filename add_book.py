@@ -16,7 +16,6 @@ def add_book():
         return
 
     for book in book_list:
-        print(book["ISBN"])
         if book["ISBN"] == isbn:
             print("Error: A book with this ISBN already exists.")
             return
