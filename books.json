@@ -1,0 +1,82 @@
+[
+    {
+        "Title": "1984",
+        "Author": "George Orwell",
+        "ISBN": "1",
+        "Genre": "Dystopian",
+        "Price": 8.99,
+        "Quantity in stock": 75
+    },
+    {
+        "Title": "Pride and Prejudice",
+        "Author": "Jane Austen",
+        "ISBN": "2",
+        "Genre": "Romance",
+        "Price": 7.99,
+        "Quantity in stock": 60
+    },
+    {
+        "Title": "The Catcher in the Rye",
+        "Author": "J.D. Salinger",
+        "ISBN": "3",
+        "Genre": "Literary Fiction",
+        "Price": 10.99,
+        "Quantity in stock": 45
+    },
+    {
+        "Title": "The Hobbit",
+        "Author": "J.R.R. Tolkien",
+        "ISBN": "4",
+        "Genre": "Fantasy",
+        "Price": 14.99,
+        "Quantity in stock": 90
+    },
+    {
+        "Title": "The Alchemist",
+        "Author": "Paulo Coelho",
+        "ISBN": "5",
+        "Genre": "Philosophical Fiction",
+        "Price": 11.99,
+        "Quantity in stock": 80
+    },
+    {
+        "Title": "The Da Vinci Code",
+        "Author": "Dan Brown",
+        "ISBN": "6",
+        "Genre": "Thriller",
+        "Price": 9.99,
+        "Quantity in stock": 55
+    },
+    {
+        "Title": "Harry Potter and the Sorcerer's Stone",
+        "Author": "J.K. Rowling",
+        "ISBN": "7",
+        "Genre": "Fantasy",
+        "Price": 12.99,
+        "Quantity in stock": 200
+    },
+    {
+        "Title": "The Lord of the Rings",
+        "Author": "J.R.R. Tolkien",
+        "ISBN": "8",
+        "Genre": "Fantasy",
+        "Price": 19.99,
+        "Quantity in stock": 100
+    },
+    {
+        "Title": "The Great Gatsby",
+        "Author": "F. Scott Fitzgerald",
+        "ISBN": "9",
+        "Genre": "Classic Literature",
+        "Price": 12.99,
+        "Quantity in stock": 50
+    },
+    {
+        "Title": "To Kill a Mockingbird",
+        "Author": "Harper Lee",
+        "ISBN": "10",
+        "Genre": "Fiction",
+        "Price": 9.99,
+        "Quantity in stock": 120
+    }
+]
